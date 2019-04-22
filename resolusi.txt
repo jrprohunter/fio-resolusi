@@ -1,3 +1,4 @@
 - Menyelesaikan skripsi tahun ini
+- Belajar PHP laravel export
 - Dapat Pekerjaan IT Software Development
-- Belajar studi kasus laravel
+
